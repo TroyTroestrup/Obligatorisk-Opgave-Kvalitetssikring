@@ -23,5 +23,20 @@ public class TestRomertalsaddition {
 				
 				//4. Teardown
 	}
+	
+	@Test //Testcase 2)
+	public void testIPlusMMMMDCCCCLXXXXVIIIIEqualsUgyldigtTalException() {
+				//3. Setup
+				Romertalsaddition romertalsaddition;
+				
+				//2. Execution
+				romertalsaddition = new Romertalsaddition( "I", "MMMMDCCCCLXXXXVIIII" );
+				
+				//1. Verification
+
+				
+				//4. Teardown
+	}
+
 
 }
