@@ -23,3 +23,12 @@ a = "MMD" (2500)
 b = "MMCCCCLXXXXVIIII" (2499)
 Expected output: "MMMMDCCCCLXXXXVIIII" (4999)
 Actual output: -
+
+Testcase 3)
+
+Input: 
+a = "CCLXXXXIII" (293)
+b = "DXXXXVIII" (548)
+Expected output: "DCCCXXXX" (840)
+Actual output: -
+
